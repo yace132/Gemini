@@ -4475,6 +4475,13 @@ tar@^4.4.10, tar@^4.4.12, tar@^4.4.8:
     safe-buffer "^5.1.2"
     yallist "^3.0.3"
 
+taurus-pkg2@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/taurus-pkg2/-/taurus-pkg2-0.0.3.tgz#de42a7aaa75527eb19b75ba72edb9dbe867e7597"
+  integrity sha512-utMMih4wKONnaVds/iS8BKzFp1lXuA0d+aZSySyO4fWaxVgqXM77yL2JMcDBpe3bk6ICgnF8nxpUBHxhh8groA==
+  dependencies:
+    voting-contracts-abi "^1.0.1"
+
 temp-dir@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/temp-dir/-/temp-dir-1.0.0.tgz#0a7c0ea26d3a39afa7e0ebea9c1fc0bc4daa011d"
@@ -4750,6 +4757,11 @@ verror@1.10.0:
     assert-plus "^1.0.0"
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
+
+voting-contracts-abi@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/voting-contracts-abi/-/voting-contracts-abi-1.0.1.tgz#54dc86f0295391abb7438bada22cf311a428f91b"
+  integrity sha512-HeS2UUv7MJu8TIF4GmjQgwjYBU6N4J+BzuZo1ZG1qPBL/ZnVUbCnmPo12edIcO6T08gPpX1617Kq/3G4smpwdA==
 
 wcwidth@^1.0.0:
   version "1.0.1"
