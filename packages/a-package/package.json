@@ -16,7 +16,6 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "private": true,
   "dependencies": {
     "taurus-pkg2": "^0.0.3"
   }
